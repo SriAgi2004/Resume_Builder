@@ -1,16 +1,16 @@
-
 # Smart Resume Builder with AI Suggestions
+
      Smart Resume Builder with AI Suggestions is a full-stack web app that lets users create, preview, and export resumes with real-time improvement tips powered by OpenAI’s GPT-3.5 (free tier). Built with React.js, Node.js, MongoDB, and Tailwind CSS, it features dynamic form inputs, and professional templates to help users build standout resumes.
      
 FEATURES 
-    -> Dynamic Resume Builder – Easily input personal, educational, and professional details using interactive forms.
-    -> PDF Export – Download polished,save ready resumes in one click.
-    -> AI-Powered Suggestions – Get real-time resume enhancement tips from OpenAI GPT-3.5 (free tier).
-    -> PDF Export – Download polished, print-ready resumes in one click.
-    -> Multiple Templates – Choose from clean, professional templates for a personalized look.
-    -> Live Preview Mode – Instantly see how your resume looks with real-time updates and print-friendly styling.
-    -> Data Persistence – Store and manage resume data with a MongoDB backend.
-    -> Responsive Design – Seamlessly works across desktop and mobile devices.
+    - Dynamic Resume Builder – Easily input personal, educational, and professional details using interactive forms.
+    - PDF Export – Download polished,save ready resumes in one click.
+    - AI-Powered Suggestions – Get real-time resume enhancement tips from OpenAI GPT-3.5 (free tier).
+    - PDF Export – Download polished, print-ready resumes in one click.
+    - Multiple Templates – Choose from clean, professional templates for a personalized look.
+    - Live Preview Mode – Instantly see how your resume looks with real-time updates and print-friendly styling.
+    - Data Persistence – Store and manage resume data with a MongoDB backend.
+    - Responsive Design – Seamlessly works across desktop and mobile devices.
 
 TEACH STACK
 
