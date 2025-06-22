@@ -43,6 +43,7 @@ Hooks and Lib folders – Suggest modular React design (custom hooks & utilities
 tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeScript in app and node environments
 
 
+
 ▶️ Steps to Run 
 
  -Clone the project 
@@ -53,23 +54,26 @@ tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeSc
     Open your terminal and run:  npm install
     
 - Start Development Server
-- 
+  
     To run the project in development mode:  npm run dev
 
 
 Screenshots
 
+   FILL RESUME DETAILS
    ![image](https://github.com/user-attachments/assets/d36b6e0e-5d14-4da1-af5e-d9dbea74ab81)
 
    ![image](https://github.com/user-attachments/assets/249714a0-d9b5-4dad-8c75-8e21cdc5e876)
 
+   SELECTING TEMPLATE 
+   
    ![image](https://github.com/user-attachments/assets/28946b21-5785-43d0-bd76-25824b16b18f)
 
-   PREVIEW
-   
+   RESUME PREVIEW
+  
    ![image](https://github.com/user-attachments/assets/7ba03d3c-cbcb-4aab-a811-f9f6bc42a119)
 
-  AI SUGGESTIONS 
+   AI SUGGESTIONS 
  
   ![image](https://github.com/user-attachments/assets/092ccc50-c5bd-4215-9fce-ce8ed20d4843)
 
