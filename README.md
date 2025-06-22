@@ -49,8 +49,11 @@ tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeSc
     https://github.com/SriAgi2004/Resume_Builder.git
 
  -Install Dependencies
+ 
     Open your terminal and run:  npm install
+    
 - Start Development Server
+- 
     To run the project in development mode:  npm run dev
 
 
