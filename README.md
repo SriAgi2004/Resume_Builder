@@ -50,6 +50,11 @@ Hooks and Lib folders – Suggest modular React design (custom hooks & utilities
 
 
 
+
+
+
+
+
 ▶️STEPS TO RUN 
 
  -Clone the project 
@@ -62,6 +67,12 @@ Hooks and Lib folders – Suggest modular React design (custom hooks & utilities
 - Start Development Server
   
     To run the project in development mode:   npm run dev
+
+
+
+
+
+
 
 
 
