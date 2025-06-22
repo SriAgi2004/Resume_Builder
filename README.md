@@ -19,6 +19,8 @@ FEATURES
     - Data Persistence – Store and manage resume data with a MongoDB backend.
     
     - Responsive Design – Seamlessly works across desktop and mobile devices.
+
+    
     
 
 TEACH STACK
@@ -40,11 +42,15 @@ React Router – Possibly used, though not visible in this image (check pages/ o
 Hooks and Lib folders – Suggest modular React design (custom hooks & utilities)
 
 🔹 TypeScript Configs
-tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeScript in app and node environments
+
+       tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeScript in app and node environments
+  
 
 
 
-▶️ Steps to Run 
+
+
+▶️STEPS TO RUN 
 
  -Clone the project 
     https://github.com/SriAgi2004/Resume_Builder.git
@@ -55,12 +61,15 @@ tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeSc
     
 - Start Development Server
   
-    To run the project in development mode:  npm run dev
+    To run the project in development mode:   npm run dev
 
 
-Screenshots
+
+
+SCREENSHOTS
 
    FILL RESUME DETAILS
+   
    ![image](https://github.com/user-attachments/assets/d36b6e0e-5d14-4da1-af5e-d9dbea74ab81)
 
    ![image](https://github.com/user-attachments/assets/249714a0-d9b5-4dad-8c75-8e21cdc5e876)
