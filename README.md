@@ -58,13 +58,20 @@ tsconfig.json, tsconfig.app.json, tsconfig.node.json – Config files for TypeSc
 
 
 Screenshots
+
    ![image](https://github.com/user-attachments/assets/d36b6e0e-5d14-4da1-af5e-d9dbea74ab81)
 
    ![image](https://github.com/user-attachments/assets/249714a0-d9b5-4dad-8c75-8e21cdc5e876)
 
    ![image](https://github.com/user-attachments/assets/28946b21-5785-43d0-bd76-25824b16b18f)
 
-   ![image](https://github.com/user-attachments/assets/7454ff70-c043-412d-b42d-5498d39fd052)
+   PREVIEW
+   
+   ![image](https://github.com/user-attachments/assets/7ba03d3c-cbcb-4aab-a811-f9f6bc42a119)
+
+  AI SUGGESTIONS 
+ 
+  ![image](https://github.com/user-attachments/assets/092ccc50-c5bd-4215-9fce-ce8ed20d4843)
 
 
 
